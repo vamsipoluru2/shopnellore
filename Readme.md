@@ -2,4 +2,4 @@
 
 https://github.com/tejeswar-s/shopnellore.git
 
-Poluru Vamsi says this is the best project
+Poluru Vamsi says this is the best project in nellore.
